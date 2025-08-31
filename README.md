@@ -54,6 +54,8 @@ https://grampanchayatdevnagar.netlify.app/
 4. Host the generated `/dist-sites/<name>` folders on Netlify — each row becomes one site.
 
 <img width="1160" height="868" alt="image" src="https://github.com/user-attachments/assets/f3a1f7f6-6660-4500-95d6-b6cc1a019a50" />
+<img width="1896" height="762" alt="image" src="https://github.com/user-attachments/assets/1fac1530-3874-4aea-89a5-ccff9b3dbee3" />
+<img width="1868" height="776" alt="image" src="https://github.com/user-attachments/assets/2890c6bf-6a52-4488-afc1-bce7a0efa2fb" />
 
 ---
 
