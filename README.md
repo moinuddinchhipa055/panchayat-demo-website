@@ -37,10 +37,9 @@ Update **src/data/site.json**:
 Images live in **/public/images**.
 
 ## 🌐 Deploy (fastest)
+https://grampanchayatdevnagar.netlify.app/
 
 
-## 🧩 WordPress integration
-Option A: Host this static site and embed via Elementor **HTML** widget or iFrame.Option B: Copy HTML blocks per section into Elementor and use the JSON as your source of truth.
 
 ## 🤖 Scale to 100 Websites/Day
 1. Prepare a CSV (`data/sample.csv`) with columns: `name,address,phone,email,facebook,instagram,twitter,about,members` (members separated by `|`).
@@ -52,7 +51,7 @@ Option A: Host this static site and embed via Elementor **HTML** widget or iFram
    ```bash
    npm run bulk
    ```
-4. Host the generated `/dist-sites/<name>` folders on Netlify or S3 — each row becomes one site.
+4. Host the generated `/dist-sites/<name>` folders on Netlify — each row becomes one site.
 
 <img width="1160" height="868" alt="image" src="https://github.com/user-attachments/assets/f3a1f7f6-6660-4500-95d6-b6cc1a019a50" />
 
