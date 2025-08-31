@@ -1,0 +1,93 @@
+{
+  "panchayat": {
+    "name": "Devnagar",
+    "about": "Devnagar is a progressive Gram Panchayat focused on clean water, paved roads, education, and e‑governance. Our mission is to deliver essential services transparently and to engage residents through digital platforms.\n\nदेवनगर ग्राम पंचायत स्वच्छ जल, पक्की सड़कें, शिक्षा और ई‑गवर्नेंस पर केंद्रित है। हमारा उद्देश्य पारदर्शिता के साथ सेवाएं देना और डिजिटल माध्यम से नागरिकों की भागीदारी सुनिश्चित करना है।"
+  },
+  "gallery": [
+    {
+      "src": "/images/gallery-1.jpg",
+      "alt": "Panchayat-office",
+      "caption": "Panchayat-office"
+    },
+    {
+      "src": "/images/gallery-2.jpg",
+      "alt": "Plantation Drive (वृक्षारोपण)",
+      "caption": "Plantation Drive (वृक्षारोपण)"
+    },
+    {
+      "src": "/images/gallery-3.jpg",
+      "alt": "Cleanliness Drive (स्वच्छता अभियान)",
+      "caption": "Cleanliness Drive (स्वच्छता अभियान)"
+    },
+    {
+      "src": "/images/gallery-4.jpg",
+      "alt": "Panchayat Members Group Photo",
+      "caption": "Panchayat Members Group Photo"
+    },
+    {
+      "src": "/images/gallery-5.jpg",
+      "alt": "Development Work",
+      "caption": "Development Work"
+    }
+  ],
+  "news": [
+    {
+      "id": "n1",
+      "title": "Ward-wise Road Repair Tender Published",
+      "date": "2025-08-15",
+      "excerpt": "Inviting bids for patchwork and side-drain cleaning across 8 wards.",
+      "link": ""
+    },
+    {
+      "id": "n2",
+      "title": "Health Camp on Sunday",
+      "date": "2025-08-27",
+      "excerpt": "Free general check-up, vaccination awareness and blood group testing at Community Hall.",
+      "link": ""
+    }
+  ],
+  "members": [
+    {
+      "id": "m1",
+      "name": "Saraswati Devi",
+      "role": "Sarpanch"
+    },
+    {
+      "id": "m2",
+      "name": "Ramesh Kumar",
+      "role": "Up-Sarpanch"
+    },
+    {
+      "id": "m3",
+      "name": "Asha Chauhan",
+      "role": "Ward Member - 1"
+    },
+    {
+      "id": "m4",
+      "name": "Mohit Singh",
+      "role": "Ward Member - 2"
+    },
+    {
+      "id": "m5",
+      "name": "Kavita Yadav",
+      "role": "Ward Member - 3"
+    },
+    {
+      "id": "m6",
+      "name": "Shyam Lal",
+      "role": "Ward Member - 4"
+    }
+  ],
+  "contact": {
+    "address": "Gram Panchayat Office, Devnagar, Tehsil — Ajmer, Rajasthan 305001",
+    "phone": "+91 98765 43210",
+    "email": "office@gpdevnagar.in",
+    "hours": "Mon–Sat, 10:00 AM – 5:00 PM",
+    "map": "https://www.google.com/maps?q=Ajmer,+Rajasthan&output=embed"
+  },
+  "social": {
+    "facebook": "https://facebook.com/gpdevnagar",
+    "instagram": "https://instagram.com/gpdevnagar",
+    "twitter": "https://x.com/gpdevnagar"
+  }
+}
